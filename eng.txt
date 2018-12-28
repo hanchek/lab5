@@ -1,0 +1,1 @@
+Hardware exception mechanisms are processed by the CPU. It is intended to support, e.g., error detection, and redirects the program flow to error handling service routines. The state before the exception is saved, e.g., on the stack.

@@ -1,0 +1,100 @@
+Worker:
+Name: Name0
+ID :608
+Type: HourSalary
+Salary: 0.8214426793966166
+Worker:
+Name: Name1
+ID :975
+Type: HourSalary
+Salary: 0.21877157987746476
+Worker:
+Name: Name2
+ID :416
+Type: FixedSalary
+Salary: 0.8705138874803117
+Worker:
+Name: Name3
+ID :947
+Type: HourSalary
+Salary: 0.4055352975865856
+Worker:
+Name: Name4
+ID :617
+Type: HourSalary
+Salary: 0.637667364143952
+Worker:
+Name: Name5
+ID :712
+Type: HourSalary
+Salary: 0.27130338630058903
+Worker:
+Name: Name6
+ID :348
+Type: FixedSalary
+Salary: 0.03426878161610236
+Worker:
+Name: Name7
+ID :738
+Type: HourSalary
+Salary: 0.12856290779820123
+Worker:
+Name: Name8
+ID :800
+Type: FixedSalary
+Salary: 0.4098226277476702
+Worker:
+Name: Name9
+ID :401
+Type: FixedSalary
+Salary: 0.08482479335670545
+Worker:
+Name: Name10
+ID :612
+Type: FixedSalary
+Salary: 0.4813482927049392
+Worker:
+Name: Name11
+ID :780
+Type: HourSalary
+Salary: 0.3277002335114234
+Worker:
+Name: Name12
+ID :771
+Type: HourSalary
+Salary: 0.16474655791979975
+Worker:
+Name: Name13
+ID :519
+Type: FixedSalary
+Salary: 0.8890694414137315
+Worker:
+Name: Name14
+ID :638
+Type: FixedSalary
+Salary: 0.8327221193743343
+Worker:
+Name: Name15
+ID :190
+Type: FixedSalary
+Salary: 0.26691378599111537
+Worker:
+Name: Name16
+ID :245
+Type: HourSalary
+Salary: 0.2709001004204864
+Worker:
+Name: Name17
+ID :783
+Type: HourSalary
+Salary: 0.7335767776606167
+Worker:
+Name: Name18
+ID :502
+Type: HourSalary
+Salary: 0.007093159788548853
+Worker:
+Name: Name19
+ID :884
+Type: HourSalary
+Salary: 0.7656654856859342
